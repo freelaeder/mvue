@@ -1,9 +1,11 @@
-<template></template>
+<template>
+  <h1>sss</h1>
+</template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
 // 导入ref
-import { ref, computed } from "vue";
+// import { ref, computed } from "vue";
 export default defineComponent({
   name: "App",
   // 组合式API入口
